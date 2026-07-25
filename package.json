@@ -1,6 +1,6 @@
 {
 
-  "homepage" : "https://dhanurasiya10.github.io/",
+  "homepage" : "https://dhanurasiya10.github.io/q1/",
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build",
 
