@@ -1,4 +1,9 @@
 {
+
+  "homepage" : "https://dhanurasiya10.github.io/",
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+
   "name": "northstar-market",
   "private": true,
   "version": "1.0.0",
